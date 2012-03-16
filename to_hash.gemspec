@@ -27,7 +27,7 @@ Gem::Specification.new do |s|
   s.rdoc_options = ["--charset=UTF-8"]
   s.require_paths = ["lib"]
   s.rubygems_version = %q{1.3.3}
-  s.summary = %q{TODO}
+  s.summary = "A fork of qoobaa's to_hash gem forked to build the gem on rubygems.org"
   s.test_files = [
     "test/to_hash_test.rb",
      "test/test_helper.rb"
